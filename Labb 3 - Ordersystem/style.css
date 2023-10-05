@@ -1,0 +1,59 @@
+.items{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    width: 100%;
+    margin: 0px;
+
+    border-top: 1px solid black;
+}
+
+.material-icons {
+    margin-left: 20px;
+}
+
+.h5-icon {
+    display: flex;
+    justify-content: row;
+    padding-right: 20px;
+    color: #2B2B2B
+  }
+  .h5-icon .material-icons {
+    margin-left: auto;
+    font-size: 40px;
+  }
+
+  .counter {
+    font-size: 30px;
+  }
+
+  .delete {
+    margin-right: 50px !important;
+    margin-left: 0 !important;
+  }
+
+.menysections {
+    background-color: #5E5E5E;
+    margin: 0px;
+    padding: 10px;
+}
+
+#order {
+    background-color: #5E5E5E;
+    margin-bottom: 10px;
+}
+#menybtn, #bestallningbtn {
+    font-size: 25px;
+    padding: 15px;
+}
+
+.form {
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+.form-control {
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+
