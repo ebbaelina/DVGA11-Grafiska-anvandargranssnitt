@@ -1,0 +1,57 @@
+/*Ebba Johansson & Albin österlund*/
+.restaurant-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    height: 650px;
+}
+
+body {
+    background-color: white;
+    color: black;
+}
+
+.table {
+    color: black;
+}
+
+tr {
+    border: 1px solid black;
+}
+
+#namn, #antal {
+    border: 1px solid black;
+}
+
+.waitinglist {
+    width: 20%;
+    border: 1px solid black;
+    height: 100%;
+}
+
+.patio {
+    width: 40%;
+    border: 1px solid black;
+}
+
+.restaurant{
+    width: 40%;
+    border: 1px solid black;
+}
+
+div[class^="col"]  {
+    background-color: green;
+    border: 1px solid black;
+    
+}
+
+#ledig {
+    background-color: green;
+    color: green;
+}
+
+#upptaget {
+    background-color: red;
+    color: red;
+}
